@@ -1,2 +1,2 @@
 # Data-Engineer-Projects
-A collection of projects for Extracting and Transforming dataset into a useful data.
+The URL below is a collection of python code projects on multiple different datasets to perform ETL. The purpose of the projects is to perform data cleansing on an unstructured dataset. All the datasets were manipulated so that it could be used to provide useful data for data analyst and data scientist. Pyspark was also one of the few libraries practiced in the project repository below.
